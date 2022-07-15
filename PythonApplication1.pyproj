@@ -45,6 +45,7 @@
     <Compile Include="file_reader_exercise2.py" />
     <Compile Include="except_function.py" />
     <Compile Include="language_survey.py" />
+    <Compile Include="andy.py" />
     <Compile Include="test_test_course_exercise.py" />
     <Compile Include="test_course_excercise.py" />
     <Compile Include="test_survey.py" />
